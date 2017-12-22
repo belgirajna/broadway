@@ -15,7 +15,23 @@ font-weight: bold;
 color: white;
 }
 
-li {
+.header p {
   font-size: 18px;
   color: white;
+}
+
+
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+
+h3  {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+.body p {
+  font-size: 14px;
 }
